@@ -1,8 +1,4 @@
-# GA Open-Source
-
-### Entdecken Sie unsere Open-Source Projekte.
-
-Derzeit gibt es keine Open-Source Projekte.
+# GA - Github.io
 
 ### Sehen Sie sich unsere Website-Vorlagen hier an.
 
